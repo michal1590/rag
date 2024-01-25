@@ -1,0 +1,15 @@
+torch
+tqdm
+transformers
+langchain
+loguru
+faiss-cpu
+pandas
+openpyxl
+loguru
+pydantic
+spacy
+pl-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/pl_core_news_sm-3.7.0/pl_core_news_sm-3.7.0-py3-none-any.whl#sha256=94fd294e49f87fccf863f2792a1d89be1a0fd0a3c549790b2c8338ac304bee36
+sentence-transformers
+chromadb
+matplotlib

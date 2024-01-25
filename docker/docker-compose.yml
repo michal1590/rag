@@ -1,0 +1,11 @@
+services:
+  RAG:
+    image: rag:1.0.0
+    container_name: rag
+    volumes:
+      - ./:/workdir
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+
+
